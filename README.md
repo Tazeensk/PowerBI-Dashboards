@@ -7,7 +7,7 @@ To view the dashboards, you need to have Microsoft PowerBI installed on your sys
 ## Healthcare Facilty Dashboard
 https://github.com/Tazeensk/PowerBI-Dashboards/blob/main/Dashboard.png
 ## Daily Weather Conditions Dashboard
-https://github.com/Tazeensk/PowerBI-Dashboards/blob/main/daily weather conditions.png
+https://github.com/Tazeensk/PowerBI-Dashboards/blob/main/daily%20weather%20conditions.png
 ## IMDB Dashboard
 https://github.com/Tazeensk/PowerBI-Dashboards/blob/main/imdb dashboard.png
 ## Planet Nasa Dashboard
