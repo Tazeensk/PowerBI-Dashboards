@@ -6,15 +6,15 @@ To view the dashboards, you need to have Microsoft PowerBI installed on your sys
 ## Dashboards
 ## Healthcare Facilty Dashboard
 https://github.com/Tazeensk/PowerBI-Dashboards/blob/main/Dashboard.png
+## Credit Card Fraud Detection Dashboard
+https://github.com/Tazeensk/PowerBI-Dashboards/blob/main/credit%20card%20fraud%20detection%20dashboard.png
+## IMDB Dashboard
+https://github.com/Tazeensk/PowerBI-Dashboards/blob/main/imdb%20dashboard.png
 ## Daily Weather Conditions Dashboard
 https://github.com/Tazeensk/PowerBI-Dashboards/blob/main/daily%20weather%20conditions.png
-## IMDB Dashboard
-https://github.com/Tazeensk/PowerBI-Dashboards/blob/main/imdb dashboard.png
 ## Planet Nasa Dashboard
-https://github.com/Tazeensk/PowerBI-Dashboards/blob/main/planet nasa Dashboard.png
+https://github.com/Tazeensk/PowerBI-Dashboards/blob/main/planet%20nasa%20Dashboard.png
 ## House Price Dashboard
-https://github.com/Tazeensk/PowerBI-Dashboards/blob/main/House prices dashboard.png
+https://github.com/Tazeensk/PowerBI-Dashboards/blob/main/House%20prices%20dashboard.png
 ## Burrito Ratings Dashboard
-https://github.com/Tazeensk/PowerBI-Dashboards/blob/main/Burrito Ratings Dashboard.png
-## Credit Card Fraud Detection Dashboard
-https://github.com/Tazeensk/PowerBI-Dashboards/blob/main/credit card fraud detection dashboard.png
+https://github.com/Tazeensk/PowerBI-Dashboards/blob/main/Burrito%20Ratings%20Dashboard.png
